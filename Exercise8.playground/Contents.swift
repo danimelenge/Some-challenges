@@ -1,5 +1,15 @@
 import Foundation
 
+/*
+ * Crea una función que sume 2 números y retorne su resultado pasados
+ * unos segundos.
+ * - Recibirá por parámetros los 2 números a sumar y los segundos que
+ *   debe tardar en finalizar su ejecución.
+ * - Si el lenguaje lo soporta, deberá retornar el resultado de forma
+ *   asíncrona, es decir, sin detener la ejecución del programa principal.
+ *   Se podría ejecutar varias veces al mismo tiempo.
+ */
+
 // MARK: - Función asíncrona para sumar dos números después de un retraso
 func asyncSum(a: Int, b: Int, delaySeconds: TimeInterval, completion: @escaping (Int) -> Void) {
     DispatchQueue.global().asyncAfter(deadline: .now() + delaySeconds) {
