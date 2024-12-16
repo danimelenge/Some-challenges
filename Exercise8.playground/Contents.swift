@@ -10,6 +10,7 @@ import Foundation
  *   Se podría ejecutar varias veces al mismo tiempo.
  */
 
+
 // MARK: - Función asíncrona para sumar dos números después de un retraso
 func asyncSum(a: Int, b: Int, delaySeconds: TimeInterval, completion: @escaping (Int) -> Void) {
     DispatchQueue.global().asyncAfter(deadline: .now() + delaySeconds) {
