@@ -6,7 +6,6 @@
 # *   asíncrona, es decir, sin detener la ejecución del programa principal.
 # *   Se podría ejecutar varias veces al mismo tiempo.
 
-
 import asyncio
 
 # Función asíncrona para sumar dos números después de un retraso
