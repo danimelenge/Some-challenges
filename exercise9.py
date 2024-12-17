@@ -1,6 +1,10 @@
 import zipfile
 import os
 
+# Crea un programa capaz de comprimir un archivo 
+# en formato .zip (o el que tú quieras).
+# - No subas el archivo o el zip.
+
 # Función para comprimir un archivo en formato .zip
 def compress_file(file_path, output_zip):
     """
@@ -26,3 +30,4 @@ if __name__ == "__main__":
     output_zip = "archivo_comprimido.zip"
     
     compress_file(input_file, output_zip)
+
