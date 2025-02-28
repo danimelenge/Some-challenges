@@ -116,4 +116,4 @@ def main():
         print("Producto y precio creados correctamente.")
 
 if __name__ == "__main__":
-    main()  
+    main()     
