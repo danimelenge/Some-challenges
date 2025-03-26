@@ -97,5 +97,4 @@ def play_game():
     print("Papá Noel no podrá repartir los regalos. 😢")
 
 # Ejecutar el juego
-play_game()   
-      
+play_game()  
