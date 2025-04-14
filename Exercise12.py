@@ -147,7 +147,7 @@ def main():
             plan = manager.calculate_plan()
             manager.export_plan(plan)
         elif choice == "4":
-            print("¡Adiós! 😊")
+            print("¡Adiós! 😊")    
             break
         else:
             print("❌ Opción inválida, inténtalo de nuevo.")
