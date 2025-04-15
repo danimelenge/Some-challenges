@@ -22,7 +22,7 @@ morse_alphabet = {
 
 # Invertir el diccionario para morse a texto
 text_alphabet = {value: key for key, value in morse_alphabet.items()}
-
+  
 # Función para detectar si la entrada es Morse o texto
 def is_morse(input_str):
     return all(char in ".- " for char in input_str)
