@@ -83,7 +83,7 @@ def play_game():
         is_valid, error_message = validate_input(user_input)
         if not is_valid:
             print(f"Error: {error_message}")
-            continue
+            continue    
         
         if user_input == secret_code:
             print("¡Felicidades! Has adivinado el código secreto.")
