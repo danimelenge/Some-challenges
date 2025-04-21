@@ -1,5 +1,5 @@
 import random
-
+  
 """
 EJERCICIO:
 ¡Ha comenzado diciembre! Es hora de montar nuestro
