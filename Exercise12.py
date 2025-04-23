@@ -12,7 +12,7 @@ Cada entrada de un objetivo está formado por (con un ejemplo):
 - Meta: Leer libros
 - Cantidad: 12
 - Unidades: libros
-- Plazo (en meses): 12 (máximo 12)
+- Plazo (en meses): 12 (máximo 12)  
 
 El cálculo del plan detallado generará la siguiente salida:
 - Un apartado para cada mes
