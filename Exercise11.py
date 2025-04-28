@@ -1,6 +1,6 @@
 """
 EJERCICIO:
-Papá Noel tiene que comenzar a repartir los regalos...  
+Papá Noel tiene que comenzar a repartir los regalos...    
 ¡Pero ha olvidado el código secreto de apertura del almacén!  
 
 Crea un programa donde introducir códigos y obtener pistas.
