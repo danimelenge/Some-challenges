@@ -1,7 +1,7 @@
 import random
   
 """
-EJERCICIO:   
+EJERCICIO:     
 ¡Ha comenzado diciembre! Es hora de montar nuestro
 árbol de Navidad...
   
