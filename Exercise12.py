@@ -3,7 +3,7 @@ EJERCICIO:
 El nuevo año está a punto de comenzar...   
 ¡Voy a ayudarte a planificar tus propósitos de nuevo año!     
 
-Programa un gestor de objetivos con las siguientes características:
+Programa un gestor de objetivos con las siguientes características: 
 - Permite añadir objetivos (máximo 10)
 - Calcular el plan detallado
 - Guardar la planificación      
