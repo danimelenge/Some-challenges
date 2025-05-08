@@ -3,7 +3,7 @@ EJERCICIO:
 Papá Noel tiene que comenzar a repartir los regalos...    
 ¡Pero ha olvidado el código secreto de apertura del almacén!    
 
-Crea un programa donde introducir códigos y obtener pistas.
+Crea un programa donde introducir códigos y obtener pistas. 
 
 Código:
 - El código es una combinación de letras y números aleatorios
