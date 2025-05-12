@@ -4,7 +4,7 @@ Papá Noel tiene que comenzar a repartir los regalos...
 ¡Pero ha olvidado el código secreto de apertura del almacén!    
 
 Crea un programa donde introducir códigos y obtener pistas. 
-
+   
 Código:
 - El código es una combinación de letras y números aleatorios
   de longitud 4. (Letras: de la A a la C, Números: del 1 al 3)
