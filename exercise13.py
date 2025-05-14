@@ -5,7 +5,7 @@ https://stripe.com/es
 - Cómo recoger información del usuario.     
 - Cómo realizar un cargo asociado a un importe.
 - Gestión de productos y precios.
-- Manejo de errores.
+- Manejo de errores.  
 """
 
 import os
