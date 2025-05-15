@@ -5,7 +5,7 @@ El nuevo año está a punto de comenzar...
     
 Programa un gestor de objetivos con las siguientes características: 
 - Permite añadir objetivos (máximo 10)
-- Calcular el plan detallado
+- Calcular el plan detallado   
 - Guardar la planificación      
 
 Cada entrada de un objetivo está formado por (con un ejemplo):
