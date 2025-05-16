@@ -8,7 +8,7 @@ https://stripe.com/es
 - Manejo de errores.  
 """
 
-import os
+import os.  
 import stripe
 
 # Configura tu clave secreta de Stripe (para pruebas, usa la clave de prueba)
