@@ -1,5 +1,5 @@
 """
-EJERCICIO:  
+EJERCICIO:    
 El nuevo año está a punto de comenzar...   
 ¡Voy a ayudarte a planificar tus propósitos de nuevo año!   
     
