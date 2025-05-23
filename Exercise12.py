@@ -10,7 +10,7 @@ Programa un gestor de objetivos con las siguientes características:
 
 Cada entrada de un objetivo está formado por (con un ejemplo):
 - Meta: Leer libros
-- Cantidad: 12
+- Cantidad: 12. 
 - Unidades: libros
 - Plazo (en meses): 12 (máximo 12)  
 
