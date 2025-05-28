@@ -7,7 +7,7 @@ Programa un gestor de objetivos con las siguientes características:
 - Permite añadir objetivos (máximo 10)  
 - Calcular el plan detallado   
 - Guardar la planificación      
-
+  
 Cada entrada de un objetivo está formado por (con un ejemplo):
 - Meta: Leer libros
 - Cantidad: 12. 
