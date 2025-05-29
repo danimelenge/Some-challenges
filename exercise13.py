@@ -6,7 +6,7 @@ https://stripe.com/es
 - Cómo realizar un cargo asociado a un importe. 
 - Gestión de productos y precios.
 - Manejo de errores.  
-"""
+"""  
 
 import os.   
 import stripe
