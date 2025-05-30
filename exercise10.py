@@ -5,7 +5,7 @@ EJERCICIO:
 ¡Ha comenzado diciembre! Es hora de montar nuestro      
 árbol de Navidad...   
   
-Desarrolla un programa que cree un árbol de Navidad
+Desarrolla un programa que cree un árbol de Navidad 
 con una altura dinámica definida por el usuario por terminal.
 
 Ejemplo de árbol de altura 5 (el tronco siempre será igual):
